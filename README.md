@@ -1,1 +1,3 @@
 # EBE-Estudos_Biblicos_Evangelicos
+
+No desenvolvimento de um site de Estudos Bíblicos Evangélicos! Só o tempo o dirá!....
